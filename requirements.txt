@@ -1,0 +1,22 @@
+# Backend (Phase 3) 
+Flask
+python-dotenv
+gunicorn 
+requests
+
+# Analysis (Phase 4) 
+numpy
+pandas
+matplotlib
+
+# Machine learning (Phase 5)
+scikit-learn
+
+# Notebooks
+ipykernel
+
+# AI assistant (Phase 6)
+groq
+ 
+# Testing
+pytest

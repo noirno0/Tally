@@ -1,0 +1,25 @@
+# Virtual environmet
+.venv/
+venv/
+
+# Python 
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets and local settings
+.env
+
+# Databases and real financial data (never commit these)
+*.db
+*.sqlite3
+data/real/
+data/transactions.json
+
+# Notebooks and scratch
+.ipynb_checkpoints/
+scratch/
+
+# Editor and OS
+.vscode/
+.DS_Store
